@@ -1,0 +1,1 @@
+SELECT * FROM tabelapedidos WHERE total_do_pedido >= 200 AND status = 'Pendente';

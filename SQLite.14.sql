@@ -1,0 +1,1 @@
+SELECT * FROM tabelapedidos WHERE status = 'Pendente' OR status = 'Processando';
